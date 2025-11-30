@@ -91,7 +91,7 @@ Below is a conceptual diagram of the full workflow.
 
 ---
 
-## 🔷 Mermaid Diagram (GitHub-Native)
+## 🔷 Mermaid Diagram 
 
 ```mermaid
 flowchart TD
